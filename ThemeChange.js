@@ -22,4 +22,5 @@ function image(){
         document.getElementById('heading').setAttribute('style','background-color: yellow');
     }
 }
+console.log('first')
 
